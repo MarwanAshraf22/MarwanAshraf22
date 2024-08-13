@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Omdena Mango leaf disease prediction using CV with Omdena<br>🌱 I’m currently learning deep learning using Pytorch and computer-vision<br>📫 How to reach me:- marwanghobsahy@gmail.com
+🔭 I’m currently working As a data analyst at Dubai club<br>🌱 I’m currently learning deep learning and NLP<br>📫 How to reach me:- marwanghobsahy@gmail.com
 
 
 ## 🌐 Socials:
